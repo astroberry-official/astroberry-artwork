@@ -1,0 +1,13 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Astroberry Artwork
+Upstream-Contact: Radek Kaczorek <rkaczorek@gmail.com>
+Source: https://github.com/astroberry-oficial/astroberry-artwork
+
+Files: *
+Copyright: 2019-2026 Radek Kaczorek <rkaczorek@gmail.com>
+License: CC BY-NC-ND 4.0
+ Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+ This license requires that reusers give credit to the creator.
+ It allows reusers to copy and distribute the material in any medium
+ or format in unadapted form and for noncommercial purposes only.
+
