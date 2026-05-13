@@ -1,7 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: Astroberry Artwork
 Upstream-Contact: Radek Kaczorek <rkaczorek@gmail.com>
-Source: https://github.com/astroberry-oficial/astroberry-artwork
+Source: https://github.com/astroberry-official/astroberry-artwork
 
 Files: *
 Copyright: 2019-2026 Radek Kaczorek <rkaczorek@gmail.com>
