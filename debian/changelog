@@ -1,3 +1,9 @@
+astroberry-artwork (3.3) stable; urgency=medium
+
+  * Add grub background
+
+ -- Radek Kaczorek <rkaczorek@gmail.com>  Wed, 20 May 2026 02:51:44 +0200
+
 astroberry-artwork (3.1) stable; urgency=medium
 
   * Refactor package to use debhelper
